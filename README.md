@@ -1,7 +1,5 @@
----
-
 # 🎬 ZkStream – Use Case Storyboard
-![image](./assets/zkstream.png)
+![image](.assets/zkstream.png)
 ### 1. **The Problem**
 
 * In today’s digital world, **data streams are everywhere**: live video, IoT sensors, financial market feeds, medical monitors.
