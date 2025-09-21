@@ -1,4 +1,5 @@
-# 🎬 ZkStream – 
+# 🎬 ZkStream – ZkStream is a zero-knowledge proof-of-streaming protocol that proves live data (video, IoT, finance) is authentic and untampered, using zkVerify/Horizen for lightweight, public verification.
+ 
 ![image](assets/zkstream.png)
 ### 1. **The Problem**
 
@@ -40,7 +41,8 @@
 
 * Regulators, platforms, or courts can later **verify authenticity** with one click.
 * No need to store the raw 10GB stream, just the lightweight proof.
-
+![image](assets/zkforge-circom5.png)
+![image](assets/zkforge-circom6.png)
 ---
 
 ### 4. **Use Case Scenarios**
@@ -57,15 +59,6 @@
 * zkVerify provides a **scalable, public verification layer**.
 * Anyone can validate proofs without needing access to private data.
 * Horizen ensures interoperability + trust for real-world compliance scenarios.
-
----
-
-### 📊 **Impact Highlights (to show judges)**
-
-* **Innovation** – New primitive: verifiable proof-of-stream.
-* **Relevance** – Built on zkVerify/Horizen for real-world trust.
-* **Technical Depth** – Proof generation, commitments, blockchain integration.
-* **Polish** – Hosted demo, clean README, screenshots, upcoming video pitch.
 
 ---
 
