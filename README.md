@@ -1,4 +1,5 @@
-# 🎬 ZkStream – ZkStream is a zero-knowledge proof-of-streaming protocol that proves live data (video, IoT, finance) is authentic and untampered, using zkVerify/Horizen for lightweight, public verification.
+# 🎬 ZkStream – 
+* ZkStream is a zero-knowledge proof-of-streaming protocol that proves live data (video, IoT, finance) is authentic and untampered, using zkVerify/Horizen for lightweight, public verification.
  
 ![image](assets/zkstream.png)
 ### 1. **The Problem**
