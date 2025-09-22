@@ -140,8 +140,9 @@ component main = StreamProof();
 
 ### ⚙️ Compile & Setup
 
+* Using [zkREPL](https://zkrepl.dev/)
 ```bash
-cd data/proof.json. Using [zkREPL](https://zkrepl.dev/)
+cd data/proof.json.
 ```
 ![IMAGE](assets/zkforge-circom.png)
 
@@ -230,7 +231,8 @@ Run:
 node index.js
 ```
 
-```txHash
+```bash
+txHash
 0x6307404b44de118860fc10883ea359ec600d504efd512edea0b98dda2834a538
 ```
 
