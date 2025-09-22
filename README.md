@@ -142,7 +142,7 @@ component main = StreamProof();
 
 * Using [zkREPL](https://zkrepl.dev/)
 ```bash
-cd data/proof.json.
+cd circuit/input.circom.
 ```
 ![IMAGE](assets/zkforge-circom.png)
 
